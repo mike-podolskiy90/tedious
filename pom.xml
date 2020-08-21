@@ -25,7 +25,7 @@
 
   <groupId>org.gbif.tedious</groupId>
   <artifactId>tedious-motherpom</artifactId>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.3-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Tedious Mother POM</name>
