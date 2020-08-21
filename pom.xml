@@ -25,7 +25,7 @@
 
   <groupId>org.gbif.tedious</groupId>
   <artifactId>tedious-motherpom</artifactId>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.2</version>
   <packaging>pom</packaging>
 
   <name>Tedious Mother POM</name>
@@ -35,7 +35,7 @@
     <connection>scm:git:git@github.com:gbif/tedious.git</connection>
     <url>https://github.com/gbif/tedious</url>
     <developerConnection>scm:git:git@github.com:gbif/tedious.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>tedious-motherpom-0.2</tag>
   </scm>
 
   <repositories>
